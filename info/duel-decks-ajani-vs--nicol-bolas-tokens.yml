@@ -1,0 +1,16 @@
+---
+object: set
+id: 982f060c-1508-4f2e-8cbc-a5675dbe4477
+code: tddh
+name: 'Duel Decks: Ajani vs. Nicol Bolas Tokens'
+uri: https://api.scryfall.com/sets/982f060c-1508-4f2e-8cbc-a5675dbe4477
+scryfall_uri: https://scryfall.com/sets/tddh
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Atddh&unique=prints
+released_at: '2011-09-02'
+set_type: token
+card_count: 2
+parent_set_code: ddh
+digital: false
+nonfoil_only: true
+foil_only: false
+icon_svg_uri: https://svgs.scryfall.io/sets/ddh.svg?1694404800
